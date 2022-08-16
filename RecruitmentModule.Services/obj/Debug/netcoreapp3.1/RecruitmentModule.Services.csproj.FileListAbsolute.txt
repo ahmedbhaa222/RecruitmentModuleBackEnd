@@ -1,0 +1,13 @@
+D:\projects\RecruitmentModule\RecruitmentModule.Services\obj\Debug\netcoreapp3.1\RecruitmentModule.Services.csproj.AssemblyReference.cache
+D:\projects\RecruitmentModule\RecruitmentModule.Services\obj\Debug\netcoreapp3.1\RecruitmentModule.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\RecruitmentModule\RecruitmentModule.Services\obj\Debug\netcoreapp3.1\RecruitmentModule.Services.AssemblyInfoInputs.cache
+D:\projects\RecruitmentModule\RecruitmentModule.Services\obj\Debug\netcoreapp3.1\RecruitmentModule.Services.AssemblyInfo.cs
+D:\projects\RecruitmentModule\RecruitmentModule.Services\obj\Debug\netcoreapp3.1\RecruitmentModule.Services.csproj.CoreCompileInputs.cache
+D:\projects\RecruitmentModule\RecruitmentModule.Services\bin\Debug\netcoreapp3.1\RecruitmentModule.Services.deps.json
+D:\projects\RecruitmentModule\RecruitmentModule.Services\bin\Debug\netcoreapp3.1\RecruitmentModule.Services.dll
+D:\projects\RecruitmentModule\RecruitmentModule.Services\bin\Debug\netcoreapp3.1\RecruitmentModule.Services.pdb
+D:\projects\RecruitmentModule\RecruitmentModule.Services\bin\Debug\netcoreapp3.1\RecruitmentModule.Core.dll
+D:\projects\RecruitmentModule\RecruitmentModule.Services\bin\Debug\netcoreapp3.1\RecruitmentModule.Core.pdb
+D:\projects\RecruitmentModule\RecruitmentModule.Services\obj\Debug\netcoreapp3.1\RecruitmentModule.Services.csproj.CopyComplete
+D:\projects\RecruitmentModule\RecruitmentModule.Services\obj\Debug\netcoreapp3.1\RecruitmentModule.Services.dll
+D:\projects\RecruitmentModule\RecruitmentModule.Services\obj\Debug\netcoreapp3.1\RecruitmentModule.Services.pdb

@@ -1,0 +1,16 @@
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\bin\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.deps.json
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\bin\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.dll
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\bin\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.pdb
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\bin\Debug\netcoreapp3.1\RecruitmentModule.Core.dll
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\bin\Debug\netcoreapp3.1\RecruitmentModule.Core.pdb
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\obj\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.csproj.AssemblyReference.cache
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\obj\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\obj\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.AssemblyInfoInputs.cache
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\obj\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.AssemblyInfo.cs
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\obj\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.csproj.CoreCompileInputs.cache
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\obj\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.csproj.CopyComplete
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\obj\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.dll
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\obj\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.pdb
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\bin\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.runtimeconfig.json
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\bin\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.runtimeconfig.dev.json
+D:\projects\RecruitmentModule\RecruitmentModule.Infrastrcuture\obj\Debug\netcoreapp3.1\RecruitmentModule.Infrastrcuture.genruntimeconfig.cache

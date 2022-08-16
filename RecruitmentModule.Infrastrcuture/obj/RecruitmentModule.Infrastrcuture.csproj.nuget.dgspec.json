@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projects\\RecruitmentModule\\RecruitmentModule.Infrastrcuture\\RecruitmentModule.Infrastrcuture.csproj": {}
+  },
+  "projects": {
+    "D:\\projects\\RecruitmentModule\\RecruitmentModule.Core\\RecruitmentModule.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\RecruitmentModule\\RecruitmentModule.Core\\RecruitmentModule.Core.csproj",
+        "projectName": "RecruitmentModule.Core",
+        "projectPath": "D:\\projects\\RecruitmentModule\\RecruitmentModule.Core\\RecruitmentModule.Core.csproj",
+        "packagesPath": "C:\\Users\\ahmed.bahaa\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\RecruitmentModule\\RecruitmentModule.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmed.bahaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\RecruitmentModule\\RecruitmentModule.Infrastrcuture\\RecruitmentModule.Infrastrcuture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\RecruitmentModule\\RecruitmentModule.Infrastrcuture\\RecruitmentModule.Infrastrcuture.csproj",
+        "projectName": "RecruitmentModule.Infrastrcuture",
+        "projectPath": "D:\\projects\\RecruitmentModule\\RecruitmentModule.Infrastrcuture\\RecruitmentModule.Infrastrcuture.csproj",
+        "packagesPath": "C:\\Users\\ahmed.bahaa\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\RecruitmentModule\\RecruitmentModule.Infrastrcuture\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmed.bahaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\projects\\RecruitmentModule\\RecruitmentModule.Core\\RecruitmentModule.Core.csproj": {
+                "projectPath": "D:\\projects\\RecruitmentModule\\RecruitmentModule.Core\\RecruitmentModule.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Domain\IRepsitory\**" />
+    <EmbeddedResource Remove="Domain\IRepsitory\**" />
+    <None Remove="Domain\IRepsitory\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Application\ViewModels\f23gdcig.rcp~" />
+  </ItemGroup>
+
+</Project>
